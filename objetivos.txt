@@ -1,1 +1,2 @@
 1. Aprender los fundamentos de desarrollo web para tener unas bases solidas
+2. Aprender varios lenguajes y frameworks de programacion 
